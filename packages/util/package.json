@@ -1,0 +1,14 @@
+{
+  "name": "util",
+  "version": "1.0.0",
+  "main": "./index.tsx",
+  "types": "./index.tsx",
+  "license": "MIT",
+  "dependencies": {
+    "types": "*"
+  },
+  "devDependencies": {
+    "tsconfig": "*",
+    "typescript": "^4.5.3"
+  }
+}
