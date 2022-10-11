@@ -1,1 +1,3 @@
-export function logout() {}
+export function logoutService(): Promise<void> {
+  return;
+}
